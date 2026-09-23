@@ -1,21 +1,18 @@
-# zooly-game
-Projeto Zooly Game — sistema gamificado de apoio à aprendizagem e acompanhamento do progresso dos alunos.
 # Zooly Game
-
 Projeto de desenvolvimento do Zooly Game, uma aplicação gamificada voltada ao apoio da aprendizagem e ao acompanhamento do progresso dos alunos.
 
 ## Equipe
 
 ### Product Owner (PO)
-A definir
+Thaís
 
 ### Project Manager (PM)
-A definir
+Heloísa
 
 ### Desenvolvedores
-- A definir
-- A definir
-- A definir
+- Elias
+- Hudson
+- Kauã
 
 ## Objetivo do projeto
 
